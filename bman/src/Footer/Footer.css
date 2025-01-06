@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+
+.copyright-section {
+    padding-left: 10px;
+  }
+  
+  .copyright-sentence {
+    font-size: 15px;
+  }
+  
+  .icons-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    height: 20px;
+    width: 55px;
+    color: white;
+  }
