@@ -1,0 +1,19 @@
+.about {
+}
+
+.about-sentence {
+  width: 100%;
+  height: auto;
+  font-size: 22px;
+  color: white;
+  /* font-family: "Montserrat"; */
+  font-weight: bold;
+}
+
+
+@media (max-width: 768px) {
+    .about-sentence{
+        font-size: 17px;
+    }
+    
+}
